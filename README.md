@@ -2,6 +2,7 @@
 <div padding="15px" border="solid #58a8f1 borderWidth: 1">
 
 <div width="100%" display="flex" justifyContent="center" alignItems="center" flexDirection="column">
+- ![#f03c15]
 <h1 align="center" color="#58a8f1" fontSize="39px" fontWeight="600">Welcome!!!</h1>
 <img src="https://res.cloudinary.com/projects-emanuek/image/upload/v1709572717/portfolio/linkedin_fondo_rvxapa.png" alt="banner">
 </div>
@@ -21,35 +22,48 @@
         <p style="font-size: '34px'; color: #58a8f1;">Projects</p>
 </div>
 
-<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; flex-direction: row; width: '100%';">
+<div width="100%" display="flex" justifyContent="space-around" alignItems="center" flexWrap="wrap" style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap; flex-direction: row; width: '100%';">
 
-<a href="https://github.com/EmanuelCav/Surveys" style="cursor: pointer; text-decoration: none;">
-        <div style="height: 315px; border: 1px solid #58a8f1; padding: 7px; justify-content: space-around; align-items: center; display: flex; flex-direction: column;">
-                <img style="width: 210px;" src="https://res.cloudinary.com/projects-emanuek/image/upload/v1709490095/portfolio/icon_qfb1dl.png" alt="project">
-                        <p style="font-size: 26px; text-decoration: none; color: #000;">Surfrage</p>
-        </div>
+<table>
+        <tr>
+                <td>
+                        <a href="https://github.com/EmanuelCav/alojuniordev" style="cursor: pointer; text-decoration: none;">
+                                <div style="height: 315px; border: 1px solid #58a8f1; padding: 7px; justify-content: space-around; align-items: center; display: flex; flex-direction: column;">
+                                        <img style="width: 210px;" src="https://res.cloudinary.com/projects-emanuek/image/upload/v1709490527/portfolio/alojunior_lexyoe.png" alt="project">
+                                        <p style="font-size: 26px; text-decoration: none; color: #000;">A Lo Junior</p>
+                                </div>
+                        </a>
+                </td>
+        </tr>
+        <tr>
+                <td>
+                        <a href="https://github.com/EmanuelCav/Surveys" style="cursor: pointer; text-decoration: none;">
+                                <div style="height: 315px; border: 1px solid #58a8f1; padding: 7px; justify-content: space-around; align-items: center; display: flex; flex-direction: column;">
+                                        <img style="width: 210px;" src="https://res.cloudinary.com/projects-emanuek/image/upload/v1709490095/portfolio/icon_qfb1dl.png" alt="project">
+                                        <p style="font-size: 26px; text-decoration: none; color: #000;">Surfrage</p>
+                        </div>
 </a>
-
-<a href="https://github.com/EmanuelCav/alojuniordev" style="cursor: pointer; text-decoration: none;">
-        <div style="height: 315px; border: 1px solid #58a8f1; padding: 7px; justify-content: space-around; align-items: center; display: flex; flex-direction: column;">
-                <img style="width: 210px;" src="https://res.cloudinary.com/projects-emanuek/image/upload/v1709490527/portfolio/alojunior_lexyoe.png" alt="project">
-                        <p style="font-size: 26px; text-decoration: none; color: #000;">A Lo Junior</p>
-        </div>
-</a>
-
-<a href="https://github.com/EmanuelCav/general_culture_quiz" style="cursor: pointer; text-decoration: none;">
-        <div style="height: 315px; border: 1px solid #58a8f1; padding: 7px; justify-content: space-around; align-items: center; display: flex; flex-direction: column;">
-                <img style="width: 210px;" src="https://res.cloudinary.com/projects-emanuek/image/upload/v1709490947/culture/icon_kfyizi.png" alt="project">
-                        <p style="font-size: 26px; text-decoration: none; color: #000;">General Culture - Trivia</p>
-        </div>
-</a>
-
-<a href="https://play.google.com/store/apps/details?id=com.argentinaquiz.triviagame" style="cursor: pointer; text-decoration: none;">
-        <div style="height: 315px; border: 1px solid #58a8f1; padding: 7px; justify-content: space-around; align-items: center; display: flex; flex-direction: column;">
-                <img style="width: 210px;" src="https://res.cloudinary.com/projects-emanuek/image/upload/v1706790450/favicon_tvx4ge.png" alt="project">
-                        <p style="font-size: 26px; text-decoration: none; color: #000;">Argentina Quiz</p>
-        </div>
-</a>
+                </td>   
+        </tr>
+                <td>
+                        <a href="https://github.com/EmanuelCav/general_culture_quiz" style="cursor: pointer; text-decoration: none;">
+                                <div style="height: 315px; border: 1px solid #58a8f1; padding: 7px; justify-content: space-around; align-items: center; display: flex; flex-direction: column;">
+                                        <img style="width: 210px;" src="https://res.cloudinary.com/projects-emanuek/image/upload/v1709490947/culture/icon_kfyizi.png" alt="project">
+                                        <p style="font-size: 26px; text-decoration: none; color: #000;">General Culture - Trivia</p>
+                                </div>
+                        </a>
+                </td>   
+        <tr>
+                <td>
+                        <a href="https://play.google.com/store/apps/details?id=com.argentinaquiz.triviagame" style="cursor: pointer; text-decoration: none;">
+                                <div style="height: 315px; border: 1px solid #58a8f1; padding: 7px; justify-content: space-around; align-items: center; display: flex; flex-direction: column;">
+                                        <img style="width: 210px;" src="https://res.cloudinary.com/projects-emanuek/image/upload/v1706790450/favicon_tvx4ge.png" alt="project">
+                                        <p style="font-size: 26px; text-decoration: none; color: #000;">Argentina Quiz</p>
+                                </div>
+                        </a>
+                </td>   
+        </tr>
+</table>
 
 </div>
 
