@@ -1,4 +1,5 @@
-<div style="padding: 15px; border-style: solid; border-color: #58a8f1; border-width: 1">
+
+        <div style="padding: 15px; border-style: solid; border-color: #58a8f1; border-width: 1">
 
         <div style="display: flex; justify-content: center; align-items: center; width: 100%; flex-direction: column;">
             <h1 style="text-align: center; color: #58a8f1; font-weight: 600; font-size: 39px;">Welcome!!!</h1>
