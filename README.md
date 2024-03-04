@@ -2,9 +2,8 @@
 <div style="padding: 15px; border-style: solid; border-color: #58a8f1; border-width: 1">
 
 <div style="display: flex; justify-content: center; align-items: center; width: 100%; flex-direction: column;">
-        <h1 style="text-align: center; color: #58a8f1; font-weight: 600; font-size: 39px;">Welcome!!!</h1>
-        <img src="https://res.cloudinary.com/projects-emanuek/image/upload/v1709572717/portfolio/linkedin_fondo_rvxapa.png"
-                alt="banner">
+<h1 style="text-align: center; color: #58a8f1; font-weight: 600; font-size: 39px;">Welcome!!!</h1>
+<img src="https://res.cloudinary.com/projects-emanuek/image/upload/v1709572717/portfolio/linkedin_fondo_rvxapa.png" alt="banner">
 </div>
 
 <div style="padding: 28px;">
