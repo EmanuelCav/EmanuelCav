@@ -8,11 +8,11 @@
 
 <div>
         <h3 align="left">About</h3>
-        <h3 align="left">
+        <h5 align="left">
                 I am a student of Information Systems Engineering and I am interested in the IT world.
                 I am oriented in web and mobile development with a willingness to work on projects, get achievements and
                 learn new tools. I have worked on multiple projects according to the knowledge acquired.
-        </h3>
+        </h5>
         <h3 align="left">Projects</h3>
         <table>
                 <tr>
