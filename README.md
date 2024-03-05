@@ -8,11 +8,10 @@
 
 <div>
         <h3 align="left">About</h3>
-        <h5 align="left">
-                I am a student of Information Systems Engineering and I am interested in the IT world.
-                I am oriented in web and mobile development with a willingness to work on projects, get achievements and
-                learn new tools. I have worked on multiple projects according to the knowledge acquired.
-        </h5>
+        <h4 align="left">
+                Full Stack software developer with React, React Native, Node.js, TypeScript and Go. I enjoy carrying out projects from start to finish where I was acquiring experience and knowledge in a self-taught way.
+                I find myself willing to undertake and work on projects, learn new tools and take my experience to another level. I usually idealize plans and enjoy carrying them out using the technologies I learn. I have worked on multiple projects according to the                     knowledge acquired.
+        </h4>
         <h3 align="left">Projects</h3>
         <table>
                 <tr>
@@ -25,7 +24,7 @@
                                 </a>
                         </td>
                         <td>
-                                <a href="https://github.com/EmanuelCav/Surveys">
+                                <a href="https://github.com/EmanuelCav/Surveys" tar>
                                     <div height="315" align="center">
                                         <img width="210" src="https://res.cloudinary.com/projects-emanuek/image/upload/v1709490095/portfolio/icon_qfb1dl.png" alt="project">
                                         <h3 align="center">Surfrage</h3>
