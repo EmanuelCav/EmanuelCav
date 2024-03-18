@@ -2,14 +2,6 @@
         <h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Welcome</h1>
         <img src="https://res.cloudinary.com/projects-emanuek/image/upload/v1709572717/portfolio/linkedin_fondo_rvxapa.png" alt="banner">
 </div>
-
-## PORTFOLIO
-
-<br>
-
-[emanuelcav.github.io](https://emanuelcav.github.io/)
-
-<br>
         
 ## ABOUT
 
