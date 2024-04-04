@@ -14,6 +14,12 @@
 
 <br>
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelCav" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=EmanuelCav&show_icons=true" />
+
+<br>
+<br>
+
 ## PROJECTS
 
 <br>
