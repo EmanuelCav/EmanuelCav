@@ -5,6 +5,18 @@
         
 ## ABOUT
 
+<a href="https://www.linkedin.com/emanuelcavallin" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/cavallinema" target="_blank">
+<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank" />
+</a>
+
+<a href="https://es.stackoverflow.com/users/243446/emanuek" target="_blank">
+<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow" />
+</a
+        
 <br>
 
 <h4 align="left">
