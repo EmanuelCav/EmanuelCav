@@ -15,7 +15,11 @@
 
 <a href="https://es.stackoverflow.com/users/243446/emanuek" target="_blank">
 <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow" />
-</a
+</a>
+
+<a href="https://play.google.com/store/apps/dev?id=6694592028510110080">
+<img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="googlePlay" />
+</a>
         
 <br>
 
