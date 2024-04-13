@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank" />
 </a>
 
-<a href="https://es.stackoverflow.com/users/243446/emanuek" target="_blank">
+<a href="https://es.stackoverflow.com/users/243446/emanuek?tab=profile" target="_blank">
 <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow" />
 </a>
 
