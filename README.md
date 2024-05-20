@@ -55,9 +55,9 @@
                         </a>
                 </td>
                 <td>
-                        <a href="https://github.com/EmanuelCav/general_culture_quiz" target="_blank"  rel="noopener noreferrer">
-                                <img width="210" src="https://res.cloudinary.com/projects-emanuek/image/upload/v1713812172/culture/logo_trivia_mpgg7y.png" alt="project">
-                                <h3 align="center">General Culture Quiz</h3>
+                        <a href="https://github.com/EmanuelCav/tournament_generator" target="_blank"  rel="noopener noreferrer">
+                                <img width="210" src="https://res.cloudinary.com/projects-emanuek/image/upload/v1716217015/portfolio/logo_tjwhut.png" alt="project">
+                                <h3 align="center">CupCraft</h3>
                         </a>
                 </td>
                 <td>
