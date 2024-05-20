@@ -45,7 +45,7 @@
                 <td>
                         <a href="https://github.com/EmanuelCav/alojuniordev" target="_blank"  rel="noopener noreferrer">
                                 <img width="210" src="https://res.cloudinary.com/projects-emanuek/image/upload/v1709490527/portfolio/alojunior_lexyoe.png" alt="project">
-                                <h3 align="center">A Lo Junior</h3>
+                                <h3 align="center">Graspper</h3>
                         </a>
                 </td>
                 <td>
