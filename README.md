@@ -43,9 +43,9 @@
 <table>
         <tr>
                 <td>
-                        <a href="https://github.com/EmanuelCav/alojuniordev" target="_blank"  rel="noopener noreferrer">
-                                <img width="210" src="https://res.cloudinary.com/projects-emanuek/image/upload/v1709490527/portfolio/alojunior_lexyoe.png" alt="project">
-                                <h3 align="center">Graspper</h3>
+                        <a href="https://github.com/EmanuelCav/argentina_geography" target="_blank"  rel="noopener noreferrer">
+                                <img width="210" src="https://res.cloudinary.com/projects-emanuek/image/upload/v1714063248/portfolio/logo_2_luwfnx.png" alt="project">
+                                <h3 align="center">Mapa de Argentina - Quiz</h3>
                         </a>
                 </td>
                 <td>
