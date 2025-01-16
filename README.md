@@ -49,9 +49,9 @@
                         </a>
                 </td>
                 <td>
-                        <a href="https://github.com/EmanuelCav/Surveys" target="_blank"  rel="noopener noreferrer">
-                                <img width="210" src="https://res.cloudinary.com/projects-emanuek/image/upload/v1709490095/portfolio/icon_qfb1dl.png" alt="project">
-                                <h3 align="center">Surfrage</h3>
+                        <a href="https://github.com/EmanuelCav/civistano_platform" target="_blank"  rel="noopener noreferrer">
+                                <img width="210" src="https://res.cloudinary.com/projects-emanuek/image/upload/v1737044520/adaptive-icon_r7gope.png" alt="project">
+                                <h3 align="center">Civistano</h3>
                         </a>
                 </td>
                 <td>
