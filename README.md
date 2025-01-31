@@ -62,7 +62,7 @@
                 </td>
                 <td>
                         <a href="https://github.com/EmanuelCav/Argentina-Geo" target="_blank"  rel="noopener noreferrer">
-                                <img width="210" src="https://res.cloudinary.com/projects-emanuek/image/upload/v1706790450/favicon_tvx4ge.png" alt="project">
+                                <img width="210" src="https://res.cloudinary.com/projects-emanuek/image/upload/v1737125578/adaptive-icon_mpjfks.jpg" alt="project">
                                 <h3 align="center">Argentina Quiz</h3>
                         </a>
                  </td>
